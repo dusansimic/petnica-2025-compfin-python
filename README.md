@@ -19,3 +19,9 @@ Za ovu radionicu će biti potrebni neki određeni Pyhton paketi te ćemo ih inst
 ```sh
 pip install pandas openpyxl matplotlib
 ```
+
+ili
+
+```sh
+py -m pip install pandas openpyxl matplotlib
+```
