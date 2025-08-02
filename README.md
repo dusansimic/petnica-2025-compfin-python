@@ -17,5 +17,5 @@ Editor koji će se koristiti za ovu radionicu je Visual Studio Code koji se mož
 Za ovu radionicu će biti potrebni neki određeni Pyhton paketi te ćemo ih instalirati pre nego što krenemo sa radom.
 
 ```sh
-pip install pandas openpyxl
+pip install pandas openpyxl matplotlib
 ```
